@@ -1,0 +1,7 @@
+﻿  4.15.c
+c:\c_code\hw2\4.15\source\4.15.c(11): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\c_code\hw2\4.15\source\4.15.c(21): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\c_code\hw2\4.15\source\4.15.c(31): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\c_code\hw2\4.15\source\4.15.c(41): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\c_code\hw2\4.15\source\4.15.c(51): warning C4305: '*=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  4.15.vcxproj -> C:\c_code\HW2\4.15\4.15\Debug\4.15.exe
